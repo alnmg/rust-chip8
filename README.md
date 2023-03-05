@@ -2,15 +2,14 @@
 
 yeah, i made another chip 8 emulator.. but now in rust
 
-# controls
-
-* press **O** to open a file select dialog
 
 it passes the inpotants test (https://github.com/Timendus/chip8-test-suite) (but the cursor dont work, so you need to add the values in memory directly into the code)
 
 fell fre to use the code if you want.. but its a very bad code :P
  
 # Controls
+
+* press **O** to open a file select dialog
 
 chip8              
 | 1 | 2 | 3 | C |   
