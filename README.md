@@ -26,7 +26,18 @@ keyBoard
 
 # Screenshots
 
-// wait a moment, im getting the prints
+ibm logo:
+![image](https://user-images.githubusercontent.com/100975643/222988353-60635c76-028d-4b50-8772-36d81ac25f86.png)
+
+some games:
+
+![image](https://user-images.githubusercontent.com/100975643/222988335-82f5711a-efcd-45c0-bb79-1e91e05b994d.png)
+
+![image](https://user-images.githubusercontent.com/100975643/222988469-d184a615-a7ad-4067-8b2f-c12eaaaee270.png)
+
+![image](https://user-images.githubusercontent.com/100975643/222988502-5071a437-b0c6-4cec-b24e-63fb32fc0285.png)
+
+
 
 # issues
 
