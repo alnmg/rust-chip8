@@ -199,8 +199,6 @@ pub fn load(mut file: File, chip8: &mut Chip8){
         chip8.write(address, byte);
     }
     chip8.state = STATE::RUNNING;
-    chip8.write(0x1ff, 4);
-    chip8.write(0x1fe, 1);
 
 }
 
