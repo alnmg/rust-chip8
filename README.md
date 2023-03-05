@@ -13,7 +13,6 @@ chip8
 | A | B | 0 | F |
 
 keyBoard
-
 | 1 | 2 | 3 | 4 |
 | Q | W | E | R |
 | A | S | D | F |
@@ -26,5 +25,6 @@ keyBoard
 # issues
 
 somethings dont work properly, i will not fix because is just a learning project, but the emulator works better than the java version
+
 the fonts works
 
